@@ -4,8 +4,8 @@ A responsive, browser-based form that helps patients organize symptoms, medicati
 
 ## Live project and demonstration
 
-- **Public GitHub repository:** Add your repository URL here after creating it.
-- **Unlisted YouTube demonstration (2 minutes maximum):** Add your video URL here after recording and uploading it.
+- **Public GitHub repository:** https://github.com/mcrwreck/appointment-prep-assistant
+- **Unlisted YouTube demonstration (2 minutes maximum):** https://youtu.be/FvJTJhm9VLg
 
 ## Features
 
